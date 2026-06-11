@@ -1,0 +1,48 @@
+# Geotechnicalengineering1 — St. Paul
+
+> Geotechnical engineering services in St. Paul, United States.
+
+## Services
+- [Anchors](https://st-paul.geotechnicalengineering1.org/anchors/)
+- [Atterberg Limits](https://st-paul.geotechnicalengineering1.org/atterberg-limits/)
+- [Cbr Road](https://st-paul.geotechnicalengineering1.org/cbr-road/)
+- [Cpt Test](https://st-paul.geotechnicalengineering1.org/cpt-test/)
+- [Deep Excavations](https://st-paul.geotechnicalengineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://st-paul.geotechnicalengineering1.org/excavation-monitoring/)
+- [Excavations](https://st-paul.geotechnicalengineering1.org/excavations/)
+- [Flexible Pavement](https://st-paul.geotechnicalengineering1.org/flexible-pavement/)
+- [Footings](https://st-paul.geotechnicalengineering1.org/footings/)
+- [Foundations](https://st-paul.geotechnicalengineering1.org/foundations/)
+- [Geophysics](https://st-paul.geotechnicalengineering1.org/geophysics/)
+- [Grain Size](https://st-paul.geotechnicalengineering1.org/grain-size/)
+- [Ground Improvement](https://st-paul.geotechnicalengineering1.org/ground-improvement/)
+- [Grouting](https://st-paul.geotechnicalengineering1.org/grouting/)
+- [In Situ Permeability](https://st-paul.geotechnicalengineering1.org/in-situ-permeability/)
+- [Investigation](https://st-paul.geotechnicalengineering1.org/investigation/)
+- [Lab In Situ](https://st-paul.geotechnicalengineering1.org/lab-in-situ/)
+- [Laboratory](https://st-paul.geotechnicalengineering1.org/laboratory/)
+- [Liquefaction](https://st-paul.geotechnicalengineering1.org/liquefaction/)
+- [Masw](https://st-paul.geotechnicalengineering1.org/masw/)
+- [Mat Foundations](https://st-paul.geotechnicalengineering1.org/mat-foundations/)
+- [Piles](https://st-paul.geotechnicalengineering1.org/piles/)
+- [Plate Load Test](https://st-paul.geotechnicalengineering1.org/plate-load-test/)
+- [Retaining Walls](https://st-paul.geotechnicalengineering1.org/retaining-walls/)
+- [Road Geotechnics](https://st-paul.geotechnicalengineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://st-paul.geotechnicalengineering1.org/sand-cone-density/)
+- [Seismic](https://st-paul.geotechnicalengineering1.org/seismic/)
+- [Seismic Isolation](https://st-paul.geotechnicalengineering1.org/seismic-isolation/)
+- [Seismic Refraction](https://st-paul.geotechnicalengineering1.org/seismic-refraction/)
+- [Slope Stability](https://st-paul.geotechnicalengineering1.org/slope-stability/)
+- [Slopes](https://st-paul.geotechnicalengineering1.org/slopes/)
+- [Soft Ground Tunnels](https://st-paul.geotechnicalengineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://st-paul.geotechnicalengineering1.org/spt-drilling/)
+- [Stone Columns](https://st-paul.geotechnicalengineering1.org/stone-columns/)
+- [Test Pits](https://st-paul.geotechnicalengineering1.org/test-pits/)
+- [Triaxial](https://st-paul.geotechnicalengineering1.org/triaxial/)
+
+## Contact
+- Website: https://st-paul.geotechnicalengineering1.org/
+
+## About
+This site provides geotechnical engineering services in St. Paul, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
